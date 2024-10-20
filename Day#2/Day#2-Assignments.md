@@ -26,7 +26,8 @@
 > Pls don't copy from others. Marks will be reduced for both students
 
 #### #1 [Docker Desktop] Install Docker Desktop and verify the command “docker version”.
-![Screenshot (46)](https://github.com/user-attachments/assets/16f8c15b-3cfd-4202-9d3d-31cde2185825)
+>![Screenshot (45)](https://github.com/user-attachments/assets/f169c5e0-dbd7-47eb-baba-67476e8e4b5a)
+
 
 
 
