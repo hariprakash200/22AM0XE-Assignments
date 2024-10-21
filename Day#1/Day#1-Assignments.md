@@ -57,7 +57,9 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Epic Games uses Amazon Elastic Compute Cloud (Amazon EC2) to support its millions of global gamers
+>![image](https://github.com/user-attachments/assets/21cad557-453c-49da-81ee-04dd6093a11b)
+
+>  Epic Games uses Amazon Elastic Compute Cloud (Amazon EC2) to support its millions of global gamers
 
 ***
 
