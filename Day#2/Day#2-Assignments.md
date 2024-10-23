@@ -80,6 +80,7 @@
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
 > ![image](https://github.com/user-attachments/assets/ee2053b1-4a58-4fc1-8d52-26f2e27582ea)
+> https://www.linkedin.com/posts/hariprakash-s-42a7b5263_i-recently-attended-a-one-credit-session-activity-7254807969408667648-tvLt?utm_source=share&utm_medium=member_desktop
 
 
 ***
