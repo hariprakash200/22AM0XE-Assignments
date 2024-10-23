@@ -43,9 +43,10 @@
 
 > - ![image](https://github.com/user-attachments/assets/a17b0bea-8157-4431-bf02-b43aa99982b5)
 
-> - ![image](https://github.com/user-attachments/assets/2930db9c-8261-45a2-900e-040082d4a067)
+> - ![image](https://github.com/user-attachments/assets/f6a6f599-3a12-4e80-b484-f52973b24dcc)
 
-> - Load a small dataset (e.g., Iris dataset) from an online source, display the first five rows, and provide a brief explanation of the dataset.
+> - ![image](https://github.com/user-attachments/assets/c59faa12-1636-48da-ab16-0d016ce7028a)
+
 
 ***
 
