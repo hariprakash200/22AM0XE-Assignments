@@ -71,6 +71,6 @@
 ***
 
 #### #6 Create a LinkedIn account with personal mail ID
-> Add your answer here!
-
+> ![image](https://github.com/user-attachments/assets/3b6e0224-9425-4141-a811-5adbb0ca2866)
+> https://www.linkedin.com/in/hariprakash-s-42a7b5263/
 ***
