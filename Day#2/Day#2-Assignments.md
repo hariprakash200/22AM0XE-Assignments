@@ -73,11 +73,13 @@
 ***
 
 #### #8 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> 
+> ![image](https://github.com/user-attachments/assets/37ca1edf-49ba-4205-8ed5-abcd1aa567c7)
+
 
 ***
 
 #### #9 Create a post on Linkedin about your learning journey in this 1 credit course
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/ee2053b1-4a58-4fc1-8d52-26f2e27582ea)
+
 
 ***
